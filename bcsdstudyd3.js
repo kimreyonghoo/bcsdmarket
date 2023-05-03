@@ -1,0 +1,215 @@
+const data=[{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTsjlWhscP5KoIgkYkOmOvm9qZW_KGnQgmQ&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+},
+{
+  id:1,
+  name:"책",
+  url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9-q_UQBqsJ6P26wwoMOWfMHFxOos4H7W8w&usqp=CAU",
+  location:0
+}
+]
+const $page=document.getElementById("container");
+for(let i=0;i<data.length;i++){ 
+  const bookCont=document.createElement("div");
+  const bookName=document.createElement("div");
+  const bookId=document.createElement("div");
+  const bookPic=document.createElement("img");
+  $page.appendChild(bookCont);
+  data[i].id=i;
+  bookName.innerText=data[i].name;
+  bookId.innerText=data[i].id;
+
+  bookPic.setAttribute("src",data[i].url);
+  bookCont.appendChild(bookName);
+  bookCont.appendChild(bookId);
+  bookCont.appendChild(bookPic);
+  bookCont.addEventListener("click",() => favor(bookCont,data[i]));
+}
+
+const $cart=document.getElementById("cart");
+
+function favor(a,b){
+  if(b.location===0){
+    ++b.location;
+    $cart.appendChild(a);
+  }
+  else if(b.location===1){
+    --b.location;
+    $page.appendChild(a);
+  } 
+}
+
+
+
+
